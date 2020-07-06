@@ -1,6 +1,6 @@
 {
   "name": "@mia-burton/dhl-tracking-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "DHL tracking",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
