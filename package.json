@@ -1,6 +1,6 @@
 {
   "name": "@mia-burton/dhl-tracking-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "DHL tracking",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,7 +11,7 @@
     "test": "jest --config src/jest.config.js"
   },
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@types/jest": "^26.0.3",
